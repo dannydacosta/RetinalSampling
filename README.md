@@ -1,4 +1,4 @@
 # RetinalSampling
 Explore primate visual cortex principles. Repository is linked to the paper "Unlocking the Primate Visual Cortex Secrets," objectively analyzes eccentricity, spatial frequency, and radial bias.
 
-All stimuli for running the experiments can be retrieved from OSFHome (https://osf.io/r62j7).
+All stimuli necessary for conducting the experiments are accessible on OSFHome (https://osf.io/r62j7). Please download the file and extract the "stimuli" folder into the primary directory of the experiment.
